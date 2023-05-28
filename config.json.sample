@@ -1,0 +1,8 @@
+{
+    "devices": {
+        "123456789ABC": { // device id
+            "password": "XXXXXXX=", // ':' + password, base64 encoded
+            "url": "http://cpy-XXXXXX.local" // device url, can be auto-detected
+        }
+    }
+}
