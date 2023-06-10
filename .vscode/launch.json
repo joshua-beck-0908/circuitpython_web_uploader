@@ -9,8 +9,7 @@
             "type": "python",
             "request": "launch",
             "program": "cpwebload.py",
-            //"args": ["upload", "main.py"],
-            "args": ["list-devices"],
+            "args": ["upload", "main.py"],
             "console": "integratedTerminal",
             "justMyCode": true
         }
